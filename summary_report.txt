@@ -1,0 +1,222 @@
+NRPS vs MIBiG Database Alignment Summary
+========================================
+
+Analyzed 43 NRPS sequences against the MIBiG database
+
+Best matches for each NRPS sequence:
+
+NRPS: pdb|2N6Z|A (length: 82)
+  Best match: BGC0000014.5|c1|17829-28898|+|ABK32256.1|AmbB|ABK32256.1 (length: 3689)
+  Score: 13.0, Identity: 66.67%
+  Alignment length: 15 positions
+
+NRPS: WP_394946084.1 (length: 298)
+  Best match: BGC0000014.5|c1|17829-28898|+|ABK32256.1|AmbB|ABK32256.1 (length: 3689)
+  Score: 19.0, Identity: 70.00%
+  Alignment length: 20 positions
+
+NRPS: WP_394077114.1 (length: 297)
+  Best match: BGC0000020.3|c1|13741-22962|-|AAM54076.1|polyketide_synthase|AAM54076.1 (length: 3073)
+  Score: 17.0, Identity: 54.84%
+  Alignment length: 31 positions
+
+NRPS: WP_394058857.1 (length: 326)
+  Best match: BGC0000014.5|c1|17829-28898|+|ABK32256.1|AmbB|ABK32256.1 (length: 3689)
+  Score: 19.0, Identity: 70.00%
+  Alignment length: 20 positions
+
+NRPS: WP_394034628.1 (length: 297)
+  Best match: BGC0000020.3|c1|39525-40280|-|AAM54100.1|kinase|AAM54100.1 (length: 251)
+  Score: 18.0, Identity: 47.83%
+  Alignment length: 46 positions
+
+NRPS: WP_393988544.1 (length: 296)
+  Best match: BGC0000020.3|c1|6501-9518|-|AAM54108.1|cytochrome_P450|AAM54108.1 (length: 1005)
+  Score: 19.0, Identity: 55.88%
+  Alignment length: 34 positions
+
+NRPS: XCP53806.1 (length: 295)
+  Best match: BGC0000002.5|c1|2033-3250|-|KALB_6559|glycosyltransferase|AHH99918.1 (length: 405)
+  Score: 17.0, Identity: 61.90%
+  Alignment length: 21 positions
+
+NRPS: WP_209484166.1 (length: 294)
+  Best match: BGC0000001.5|c1|32476-43413|+|AEK75503.1|type_1_polyketide_synthase|AEK75503.1 (length: 3645)
+  Score: 17.0, Identity: 57.69%
+  Alignment length: 26 positions
+
+NRPS: WP_394111893.1 (length: 289)
+  Best match: BGC0000024.5|c1|15244-21738|+|CAE02605.1|polyketide_synthase_type_I|CAE02605.1 (length: 2164)
+  Score: 19.0, Identity: 54.55%
+  Alignment length: 33 positions
+
+NRPS: WP_394111076.1 (length: 326)
+  Best match: BGC0000028.5|c1|34977-46883|+|ADC79618.1|BafAIII|ADC79618.1 (length: 3968)
+  Score: 21.0, Identity: 49.06%
+  Alignment length: 53 positions
+
+NRPS: WP_394105113.1 (length: 301)
+  Best match: BGC0000019.5|c1|14402-15505|+|ABW91160.1|transaldolase|ABW91160.1 (length: 367)
+  Score: 18.0, Identity: 60.00%
+  Alignment length: 25 positions
+
+NRPS: WP_394100829.1 (length: 289)
+  Best match: BGC0000001.5|c1|32476-43413|+|AEK75503.1|type_1_polyketide_synthase|AEK75503.1 (length: 3645)
+  Score: 17.0, Identity: 57.69%
+  Alignment length: 26 positions
+
+NRPS: WP_394091412.1 (length: 326)
+  Best match: BGC0000002.5|c1|69880-75144|-|KALB_6565|PKS_I|AHH99924.1 (length: 1754)
+  Score: 17.0, Identity: 57.14%
+  Alignment length: 28 positions
+
+NRPS: WP_394088603.1 (length: 326)
+  Best match: BGC0000020.3|c1|67210-71979|-|AAM54077.1|polyketide_synthase|AAM54077.1 (length: 1589)
+  Score: 17.0, Identity: 57.14%
+  Alignment length: 28 positions
+
+NRPS: WP_394081549.1 (length: 288)
+  Best match: BGC0000001.5|c1|56933-57829|+|AEK75515.1|type_II_thioesterase|AEK75515.1 (length: 298)
+  Score: 17.0, Identity: 63.16%
+  Alignment length: 19 positions
+
+NRPS: WP_394076167.1 (length: 326)
+  Best match: BGC0000002.5|c1|69880-75144|-|KALB_6565|PKS_I|AHH99924.1 (length: 1754)
+  Score: 17.0, Identity: 57.14%
+  Alignment length: 28 positions
+
+NRPS: WP_394067533.1 (length: 288)
+  Best match: BGC0000001.5|c1|32476-43413|+|AEK75503.1|type_1_polyketide_synthase|AEK75503.1 (length: 3645)
+  Score: 17.0, Identity: 68.75%
+  Alignment length: 16 positions
+
+NRPS: WP_394064521.1 (length: 326)
+  Best match: BGC0000020.3|c1|67210-71979|-|AAM54077.1|polyketide_synthase|AAM54077.1 (length: 1589)
+  Score: 17.0, Identity: 51.35%
+  Alignment length: 37 positions
+
+NRPS: WP_394040999.1 (length: 326)
+  Best match: BGC0000018.5|c1|13551-19811|+|ABY21539.1|AngAII|ABY21539.1 (length: 2086)
+  Score: 17.0, Identity: 73.33%
+  Alignment length: 15 positions
+
+NRPS: WP_394038837.1 (length: 326)
+  Best match: BGC0000028.5|c1|34977-46883|+|ADC79618.1|BafAIII|ADC79618.1 (length: 3968)
+  Score: 21.0, Identity: 49.06%
+  Alignment length: 53 positions
+
+NRPS: WP_394032341.1 (length: 326)
+  Best match: BGC0000020.3|c1|67210-71979|-|AAM54077.1|polyketide_synthase|AAM54077.1 (length: 1589)
+  Score: 17.0, Identity: 51.35%
+  Alignment length: 37 positions
+
+NRPS: WP_394008175.1 (length: 288)
+  Best match: BGC0000001.5|c1|56933-57829|+|AEK75515.1|type_II_thioesterase|AEK75515.1 (length: 298)
+  Score: 17.0, Identity: 63.16%
+  Alignment length: 19 positions
+
+NRPS: WP_393996635.1 (length: 317)
+  Best match: BGC0000014.5|c1|17829-28898|+|ABK32256.1|AmbB|ABK32256.1 (length: 3689)
+  Score: 20.0, Identity: 52.38%
+  Alignment length: 42 positions
+
+NRPS: WP_393991883.1 (length: 326)
+  Best match: BGC0000020.3|c1|78336-80582|-|AAM54082.1|ABC_transporter|AAM54082.1 (length: 748)
+  Score: 20.0, Identity: 54.05%
+  Alignment length: 37 positions
+
+NRPS: WP_393984481.1 (length: 284)
+  Best match: BGC0000001.5|c1|32476-43413|+|AEK75503.1|type_1_polyketide_synthase|AEK75503.1 (length: 3645)
+  Score: 17.0, Identity: 68.75%
+  Alignment length: 16 positions
+
+NRPS: WP_393978746.1 (length: 317)
+  Best match: BGC0000014.5|c1|17829-28898|+|ABK32256.1|AmbB|ABK32256.1 (length: 3689)
+  Score: 21.0, Identity: 51.11%
+  Alignment length: 45 positions
+
+NRPS: WP_393975098.1 (length: 285)
+  Best match: BGC0000014.5|c1|17829-28898|+|ABK32256.1|AmbB|ABK32256.1 (length: 3689)
+  Score: 18.0, Identity: 63.64%
+  Alignment length: 22 positions
+
+NRPS: WP_393957544.1 (length: 308)
+  Best match: BGC0000001.5|c1|47233-48660|+|AEK75506.1|EmrB/QacA_drug_resistance_transporter|AEK75506.1 (length: 475)
+  Score: 18.0, Identity: 51.35%
+  Alignment length: 37 positions
+
+NRPS: WP_391515705.1 (length: 318)
+  Best match: BGC0000020.3|c1|72035-75388|-|AAM54086.1|transcriptional_regulator|AAM54086.1 (length: 1117)
+  Score: 18.0, Identity: 45.76%
+  Alignment length: 59 positions
+
+NRPS: WP_391559211.1 (length: 183)
+  Best match: BGC0000004.3|c1|18437-25060|-|BAE71314.1|polyketide_synthase|BAE71314.1 (length: 2009)
+  Score: 14.0, Identity: 80.00%
+  Alignment length: 10 positions
+
+NRPS: WP_391375990.1 (length: 189)
+  Best match: BGC0000002.5|c1|69880-75144|-|KALB_6565|PKS_I|AHH99924.1 (length: 1754)
+  Score: 13.0, Identity: 64.29%
+  Alignment length: 14 positions
+
+NRPS: WP_390290327.1 (length: 183)
+  Best match: BGC0000028.5|c1|1595-3139|-|ADC79614.1|BafY|ADC79614.1 (length: 514)
+  Score: 14.0, Identity: 88.89%
+  Alignment length: 9 positions
+
+NRPS: WP_379130331.1 (length: 310)
+  Best match: BGC0000020.3|c1|13741-22962|-|AAM54076.1|polyketide_synthase|AAM54076.1 (length: 3073)
+  Score: 20.0, Identity: 52.27%
+  Alignment length: 44 positions
+
+NRPS: WP_379090270.1 (length: 338)
+  Best match: BGC0000001.5|c1|15054-32399|+|AEK75502.1|type_1_polyketide_synthase|AEK75502.1 (length: 5781)
+  Score: 17.0, Identity: 61.90%
+  Alignment length: 21 positions
+
+NRPS: WP_379036518.1 (length: 217)
+  Best match: BGC0000021.5|c1|86172-91535|-|AEP40939.1|polyketide_synthase_type_I|AEP40939.1 (length: 1787)
+  Score: 19.0, Identity: 61.54%
+  Alignment length: 26 positions
+
+NRPS: WP_378845721.1 (length: 331)
+  Best match: BGC0000018.5|c1|244-13554|+|ABY21538.1|AngAI|ABY21538.1 (length: 4436)
+  Score: 18.0, Identity: 60.71%
+  Alignment length: 28 positions
+
+NRPS: WP_377874665.1 (length: 182)
+  Best match: BGC0000007.3|c1|78787-80379|-|AAS90020.1|HypA|AAS90020.1 (length: 495)
+  Score: 14.0, Identity: 75.00%
+  Alignment length: 12 positions
+
+NRPS: XHV06635.1 (length: 991)
+  Best match: BGC0000017.5|c1|4810-6426|+|ACR33075.1|proline_adenylation_protein|ACR33075.1 (length: 538)
+  Score: 22.0, Identity: 54.29%
+  Alignment length: 35 positions
+
+NRPS: WP_375275745.1 (length: 331)
+  Best match: BGC0000020.3|c1|13741-22962|-|AAM54076.1|polyketide_synthase|AAM54076.1 (length: 3073)
+  Score: 18.0, Identity: 72.22%
+  Alignment length: 18 positions
+
+NRPS: WP_374374627.1 (length: 187)
+  Best match: BGC0000002.5|c1|14454-23357|-|KALB_6561|PKS_I|AHH99920.1 (length: 2967)
+  Score: 16.0, Identity: 73.33%
+  Alignment length: 15 positions
+
+NRPS: WP_374341810.1 (length: 306)
+  Best match: BGC0000014.5|c1|17829-28898|+|ABK32256.1|AmbB|ABK32256.1 (length: 3689)
+  Score: 17.0, Identity: 61.90%
+  Alignment length: 21 positions
+
+NRPS: WP_374309088.1 (length: 300)
+  Best match: BGC0000014.5|c1|45534-56057|+|ABK32259.1|AmbE|ABK32259.1 (length: 3507)
+  Score: 18.0, Identity: 64.00%
+  Alignment length: 25 positions
+
+NRPS: WP_374249988.1 (length: 288)
+  Best match: BGC0000001.5|c1|32476-43413|+|AEK75503.1|type_1_polyketide_synthase|AEK75503.1 (length: 3645)
+  Score: 17.0, Identity: 68.75%
+  Alignment length: 16 positions
+

@@ -1,0 +1,895 @@
+domain_id,function
+proline_adenylation_protein,Activation of proline for peptide synthesis
+proline_adenylation_protein,Bafilomycin biosynthesis component X
+proline_adenylation_protein,Catalyzes polyketide synthesis
+proline_adenylation_protein,Bafilomycin biosynthesis component Y
+proline_adenylation_protein,Type I polyketide synthase activity
+BafX,Activation of proline for peptide synthesis
+BafX,Bafilomycin biosynthesis component X
+BafX,Catalyzes polyketide synthesis
+BafX,Bafilomycin biosynthesis component Y
+BafX,Type I polyketide synthase activity
+polyketide_synthase,Activation of proline for peptide synthesis
+polyketide_synthase,Bafilomycin biosynthesis component X
+polyketide_synthase,Catalyzes polyketide synthesis
+polyketide_synthase,Bafilomycin biosynthesis component Y
+polyketide_synthase,Type I polyketide synthase activity
+BafY,Activation of proline for peptide synthesis
+BafY,Bafilomycin biosynthesis component X
+BafY,Catalyzes polyketide synthesis
+BafY,Bafilomycin biosynthesis component Y
+BafY,Type I polyketide synthase activity
+PKS_I,Activation of proline for peptide synthesis
+PKS_I,Bafilomycin biosynthesis component X
+PKS_I,Catalyzes polyketide synthesis
+PKS_I,Bafilomycin biosynthesis component Y
+PKS_I,Type I polyketide synthase activity
+"putative_dTDP-glucose_4,6-dehydratase",Dehydration of dTDP-glucose
+"putative_dTDP-glucose_4,6-dehydratase",Bafilomycin biosynthesis component AII
+"putative_dTDP-glucose_4,6-dehydratase",Type I polyketide synthase activity
+BafAII,Dehydration of dTDP-glucose
+BafAII,Bafilomycin biosynthesis component AII
+BafAII,Type I polyketide synthase activity
+PKS_I,Dehydration of dTDP-glucose
+PKS_I,Bafilomycin biosynthesis component AII
+proline_adenylation_protein,Protein of unknown function
+hypothetical_protein,Activation of proline for peptide synthesis
+hypothetical_protein,Protein of unknown function
+hypothetical_protein,Catalyzes polyketide synthesis
+hypothetical_protein,Bafilomycin biosynthesis component X
+hypothetical_protein,Bafilomycin biosynthesis component Y
+polyketide_synthase,Protein of unknown function
+BafX,Protein of unknown function
+BafY,Protein of unknown function
+proline_adenylation_protein,Activation of fatty acids (predicted)
+polyketide_synthase,Activation of fatty acids (predicted)
+hypothetical_protein,Activation of fatty acids (predicted)
+BafX,Activation of fatty acids (predicted)
+putative_acyl-coA_ligase,Activation of proline for peptide synthesis
+putative_acyl-coA_ligase,Catalyzes polyketide synthesis
+putative_acyl-coA_ligase,Protein of unknown function
+putative_acyl-coA_ligase,Bafilomycin biosynthesis component X
+putative_acyl-coA_ligase,Activation of fatty acids (predicted)
+proline_adenylation_protein,Specific polyketide synthesis (AufC variant)
+hypothetical_protein,Specific polyketide synthesis (AufC variant)
+putative_acyl-coA_ligase,Specific polyketide synthesis (AufC variant)
+polyketide_synthase,Specific polyketide synthesis (AufC variant)
+polyketide_synthase_AufC,Activation of proline for peptide synthesis
+polyketide_synthase_AufC,Protein of unknown function
+polyketide_synthase_AufC,Activation of fatty acids (predicted)
+polyketide_synthase_AufC,Catalyzes polyketide synthesis
+polyketide_synthase_AufC,Specific polyketide synthesis (AufC variant)
+proline_adenylation_protein,Type I polyketide synthesis (modular)
+polyketide_synthase_type_I,Activation of proline for peptide synthesis
+polyketide_synthase_type_I,Type I polyketide synthesis (modular)
+polyketide_synthase_type_I,Protein of unknown function
+polyketide_synthase_type_I,Activation of fatty acids (predicted)
+hypothetical_protein,Type I polyketide synthesis (modular)
+putative_acyl-coA_ligase,Type I polyketide synthesis (modular)
+BafX,Type I polyketide synthesis (modular)
+polyketide_synthase_type_I,Bafilomycin biosynthesis component X
+polyketide_synthase_type_I,Bafilomycin biosynthesis component Y
+BafY,Type I polyketide synthesis (modular)
+AmbB,Ambobactin biosynthesis component B
+AmbB,Type I polyketide synthesis (modular)
+AmbB,Specific polyketide synthesis (AufD variant)
+AmbB,Catalyzes polyketide synthesis
+AmbB,Type I polyketide synthase activity
+polyketide_synthase_type_I,Ambobactin biosynthesis component B
+polyketide_synthase_type_I,Specific polyketide synthesis (AufD variant)
+polyketide_synthase_type_I,Catalyzes polyketide synthesis
+polyketide_synthase_type_I,Type I polyketide synthase activity
+polyketide_synthase_AufD,Ambobactin biosynthesis component B
+polyketide_synthase_AufD,Type I polyketide synthesis (modular)
+polyketide_synthase_AufD,Specific polyketide synthesis (AufD variant)
+polyketide_synthase_AufD,Catalyzes polyketide synthesis
+polyketide_synthase_AufD,Type I polyketide synthase activity
+polyketide_synthase,Ambobactin biosynthesis component B
+polyketide_synthase,Type I polyketide synthesis (modular)
+polyketide_synthase,Specific polyketide synthesis (AufD variant)
+PKS_I,Ambobactin biosynthesis component B
+PKS_I,Type I polyketide synthesis (modular)
+PKS_I,Specific polyketide synthesis (AufD variant)
+AngAV,Angiogenin-related component AV
+AngAV,Angiogenin-related component AII
+AngAV,Carbohydrate isomerization
+AngAV,Catalyzes polyketide synthesis
+AngAV,Type I polyketide synthesis (modular)
+AngAII,Angiogenin-related component AV
+AngAII,Angiogenin-related component AII
+AngAII,Carbohydrate isomerization
+AngAII,Catalyzes polyketide synthesis
+AngAII,Type I polyketide synthesis (modular)
+"NDP-hexose_3,4-isomerase",Angiogenin-related component AV
+"NDP-hexose_3,4-isomerase",Angiogenin-related component AII
+"NDP-hexose_3,4-isomerase",Carbohydrate isomerization
+"NDP-hexose_3,4-isomerase",Catalyzes polyketide synthesis
+"NDP-hexose_3,4-isomerase",Type I polyketide synthesis (modular)
+polyketide_synthase,Angiogenin-related component AV
+polyketide_synthase,Angiogenin-related component AII
+polyketide_synthase,Carbohydrate isomerization
+polyketide_synthase_type_I,Angiogenin-related component AV
+polyketide_synthase_type_I,Angiogenin-related component AII
+polyketide_synthase_type_I,Carbohydrate isomerization
+proline_adenylation_protein,Bafilomycin biosynthesis component AII
+proline_adenylation_protein,Angiogenin-related component AIII
+BafX,Bafilomycin biosynthesis component AII
+BafX,Angiogenin-related component AIII
+BafAII,Activation of proline for peptide synthesis
+BafAII,Bafilomycin biosynthesis component X
+BafAII,Protein of unknown function
+BafAII,Angiogenin-related component AIII
+hypothetical_protein,Bafilomycin biosynthesis component AII
+hypothetical_protein,Angiogenin-related component AIII
+AngAIII,Activation of proline for peptide synthesis
+AngAIII,Bafilomycin biosynthesis component X
+AngAIII,Bafilomycin biosynthesis component AII
+AngAIII,Protein of unknown function
+AngAIII,Angiogenin-related component AIII
+PKS_I,Controls gene expression
+PKS_I,Regulation of antibiotic production
+polyketide_synthase,Controls gene expression
+polyketide_synthase,Regulation of antibiotic production
+transcriptional_regulator,Type I polyketide synthase activity
+transcriptional_regulator,Catalyzes polyketide synthesis
+transcriptional_regulator,Controls gene expression
+transcriptional_regulator,Regulation of antibiotic production
+SARP_transcriptional_regulator,Type I polyketide synthase activity
+SARP_transcriptional_regulator,Catalyzes polyketide synthesis
+SARP_transcriptional_regulator,Controls gene expression
+SARP_transcriptional_regulator,Regulation of antibiotic production
+ABC_transporter_protein,Transport of molecules across membrane
+ABC_transporter_protein,Ambobactin biosynthesis component B
+ABC_transporter_protein,Regulation of amphoteronolide biosynthesis
+ABC_transporter_protein,Catalyzes polyketide synthesis
+ABC_transporter_protein,Type I polyketide synthesis (modular)
+AmbB,Transport of molecules across membrane
+AmbB,Regulation of amphoteronolide biosynthesis
+similar_to_AmphRI_regulatory_protein,Transport of molecules across membrane
+similar_to_AmphRI_regulatory_protein,Ambobactin biosynthesis component B
+similar_to_AmphRI_regulatory_protein,Regulation of amphoteronolide biosynthesis
+similar_to_AmphRI_regulatory_protein,Catalyzes polyketide synthesis
+similar_to_AmphRI_regulatory_protein,Type I polyketide synthesis (modular)
+polyketide_synthase,Transport of molecules across membrane
+polyketide_synthase,Regulation of amphoteronolide biosynthesis
+type_1_polyketide_synthase,Transport of molecules across membrane
+type_1_polyketide_synthase,Ambobactin biosynthesis component B
+type_1_polyketide_synthase,Regulation of amphoteronolide biosynthesis
+type_1_polyketide_synthase,Catalyzes polyketide synthesis
+type_1_polyketide_synthase,Type I polyketide synthesis (modular)
+AngAIV,Angiogenin-related component AIV
+AngAIV,Ambobactin biosynthesis component B
+AngAIV,Carbohydrate isomerization
+AngAIV,Type I polyketide synthase activity
+AngAIV,Ion exchange across membrane
+AmbB,Angiogenin-related component AIV
+AmbB,Carbohydrate isomerization
+AmbB,Ion exchange across membrane
+"NDP-hexose_3,4-isomerase",Angiogenin-related component AIV
+"NDP-hexose_3,4-isomerase",Ambobactin biosynthesis component B
+"NDP-hexose_3,4-isomerase",Type I polyketide synthase activity
+"NDP-hexose_3,4-isomerase",Ion exchange across membrane
+PKS_I,Angiogenin-related component AIV
+PKS_I,Carbohydrate isomerization
+PKS_I,Ion exchange across membrane
+Na+/H+_antiporter,Angiogenin-related component AIV
+Na+/H+_antiporter,Ambobactin biosynthesis component B
+Na+/H+_antiporter,Carbohydrate isomerization
+Na+/H+_antiporter,Type I polyketide synthase activity
+Na+/H+_antiporter,Ion exchange across membrane
+type_1_polyketide_synthase,Transcriptional repression
+polyketide_synthase_type_I,Transcriptional repression
+TetR_regulatory_protein,Type I polyketide synthesis (modular)
+TetR_regulatory_protein,Transcriptional repression
+polyketide_synthase_type_I,"Function associated with transcriptional_regulator,_SARP_family"
+polyketide_synthase_type_I,Angiogenin-related component AI
+polyketide_synthase_type_I,Angiogenin-related component AIV
+"transcriptional_regulator,_SARP_family",Type I polyketide synthesis (modular)
+"transcriptional_regulator,_SARP_family","Function associated with transcriptional_regulator,_SARP_family"
+"transcriptional_regulator,_SARP_family",Type I polyketide synthase activity
+"transcriptional_regulator,_SARP_family",Angiogenin-related component AI
+"transcriptional_regulator,_SARP_family",Angiogenin-related component AIV
+PKS_I,"Function associated with transcriptional_regulator,_SARP_family"
+PKS_I,Angiogenin-related component AI
+AngAI,Type I polyketide synthesis (modular)
+AngAI,"Function associated with transcriptional_regulator,_SARP_family"
+AngAI,Type I polyketide synthase activity
+AngAI,Angiogenin-related component AI
+AngAI,Angiogenin-related component AIV
+AngAIV,Type I polyketide synthesis (modular)
+AngAIV,"Function associated with transcriptional_regulator,_SARP_family"
+AngAIV,Angiogenin-related component AI
+SARP_transcriptional_regulator,Catalyzes methylation reactions
+SARP_transcriptional_regulator,Specific polyketide synthesis (AufC variant)
+SARP_transcriptional_regulator,Bafilomycin biosynthesis component AI
+methyltransferase,Regulation of antibiotic production
+methyltransferase,Catalyzes methylation reactions
+methyltransferase,Specific polyketide synthesis (AufC variant)
+methyltransferase,Bafilomycin biosynthesis component AI
+methyltransferase,Type I polyketide synthase activity
+polyketide_synthase_AufC,Regulation of antibiotic production
+polyketide_synthase_AufC,Catalyzes methylation reactions
+polyketide_synthase_AufC,Bafilomycin biosynthesis component AI
+polyketide_synthase_AufC,Type I polyketide synthase activity
+BafAI,Regulation of antibiotic production
+BafAI,Catalyzes methylation reactions
+BafAI,Specific polyketide synthesis (AufC variant)
+BafAI,Bafilomycin biosynthesis component AI
+BafAI,Type I polyketide synthase activity
+PKS_I,Catalyzes methylation reactions
+PKS_I,Specific polyketide synthesis (AufC variant)
+PKS_I,Bafilomycin biosynthesis component AI
+LuxR_family_transcriptional_regulator,Quorum sensing and gene regulation
+LuxR_family_transcriptional_regulator,Toxin efflux
+LuxR_family_transcriptional_regulator,Type I polyketide synthesis (modular)
+LuxR_family_transcriptional_regulator,Methylation of NDP-hexose at C3 position
+LuxR_family_transcriptional_regulator,Reduction and dehydrogenation reactions
+putative_HC-toxin_efflux_carrier_TOXA,Quorum sensing and gene regulation
+putative_HC-toxin_efflux_carrier_TOXA,Toxin efflux
+putative_HC-toxin_efflux_carrier_TOXA,Type I polyketide synthesis (modular)
+putative_HC-toxin_efflux_carrier_TOXA,Methylation of NDP-hexose at C3 position
+putative_HC-toxin_efflux_carrier_TOXA,Reduction and dehydrogenation reactions
+polyketide_synthase_type_I,Quorum sensing and gene regulation
+polyketide_synthase_type_I,Toxin efflux
+polyketide_synthase_type_I,Methylation of NDP-hexose at C3 position
+polyketide_synthase_type_I,Reduction and dehydrogenation reactions
+NDP-hexose-C3-methyltransferase,Quorum sensing and gene regulation
+NDP-hexose-C3-methyltransferase,Toxin efflux
+NDP-hexose-C3-methyltransferase,Type I polyketide synthesis (modular)
+NDP-hexose-C3-methyltransferase,Methylation of NDP-hexose at C3 position
+NDP-hexose-C3-methyltransferase,Reduction and dehydrogenation reactions
+reductase/dehydrogenase,Quorum sensing and gene regulation
+reductase/dehydrogenase,Toxin efflux
+reductase/dehydrogenase,Type I polyketide synthesis (modular)
+reductase/dehydrogenase,Methylation of NDP-hexose at C3 position
+reductase/dehydrogenase,Reduction and dehydrogenation reactions
+type_1_polyketide_synthase,Removal of aberrant intermediates in polyketide synthesis
+type_1_polyketide_synthase,Carbohydrate isomerization
+type_1_polyketide_synthase,Bafilomycin biosynthesis component AII
+type_II_thioesterase,Type I polyketide synthesis (modular)
+type_II_thioesterase,Removal of aberrant intermediates in polyketide synthesis
+type_II_thioesterase,Carbohydrate isomerization
+type_II_thioesterase,Bafilomycin biosynthesis component AII
+type_II_thioesterase,Ambobactin biosynthesis component B
+"NDP-hexose_3,4-isomerase",Removal of aberrant intermediates in polyketide synthesis
+"NDP-hexose_3,4-isomerase",Bafilomycin biosynthesis component AII
+BafAII,Type I polyketide synthesis (modular)
+BafAII,Removal of aberrant intermediates in polyketide synthesis
+BafAII,Carbohydrate isomerization
+BafAII,Ambobactin biosynthesis component B
+AmbB,Removal of aberrant intermediates in polyketide synthesis
+AmbB,Bafilomycin biosynthesis component AII
+AmbE,Ambobactin biosynthesis component E
+AmbE,Negative regulation of gene expression
+AmbE,Transfers glycosyl groups to acceptor molecules
+AmbE,Type I polyketide synthase activity
+transcriptional_repressor,Ambobactin biosynthesis component E
+transcriptional_repressor,Negative regulation of gene expression
+transcriptional_repressor,Transfers glycosyl groups to acceptor molecules
+transcriptional_repressor,Type I polyketide synthase activity
+glycosyltransferase,Ambobactin biosynthesis component E
+glycosyltransferase,Negative regulation of gene expression
+glycosyltransferase,Transfers glycosyl groups to acceptor molecules
+glycosyltransferase,Type I polyketide synthase activity
+PKS_I,Ambobactin biosynthesis component E
+PKS_I,Negative regulation of gene expression
+PKS_I,Transfers glycosyl groups to acceptor molecules
+AmbB,"Function associated with transcriptional_regulator,_SARP_family"
+AmbB,Bafilomycin biosynthesis component AIII
+polyketide_synthase,"Function associated with transcriptional_regulator,_SARP_family"
+polyketide_synthase,Bafilomycin biosynthesis component AII
+polyketide_synthase,Bafilomycin biosynthesis component AIII
+"transcriptional_regulator,_SARP_family",Ambobactin biosynthesis component B
+"transcriptional_regulator,_SARP_family",Catalyzes polyketide synthesis
+"transcriptional_regulator,_SARP_family",Bafilomycin biosynthesis component AII
+"transcriptional_regulator,_SARP_family",Bafilomycin biosynthesis component AIII
+BafAII,Catalyzes polyketide synthesis
+BafAII,"Function associated with transcriptional_regulator,_SARP_family"
+BafAII,Bafilomycin biosynthesis component AIII
+BafAIII,Ambobactin biosynthesis component B
+BafAIII,Catalyzes polyketide synthesis
+BafAIII,"Function associated with transcriptional_regulator,_SARP_family"
+BafAIII,Bafilomycin biosynthesis component AII
+BafAIII,Bafilomycin biosynthesis component AIII
+PKS_I,Ambobactin biosynthesis component Q
+PKS_I,Protein of unknown function
+AmbQ,Type I polyketide synthase activity
+AmbQ,Ambobactin biosynthesis component Q
+AmbQ,Protein of unknown function
+AmbQ,Type I polyketide synthesis (modular)
+hypothetical_protein,Type I polyketide synthase activity
+hypothetical_protein,Ambobactin biosynthesis component Q
+polyketide_synthase_type_I,Ambobactin biosynthesis component Q
+polyketide_synthase_AufD,Protein of unknown function
+AmbB,Protein of unknown function
+hypothetical_protein,Specific polyketide synthesis (AufD variant)
+hypothetical_protein,Ambobactin biosynthesis component B
+HypA,Hydrogenase maturation protein A
+HypA,Angiogenin-related component AI
+HypA,Angiogenin-related component AIV
+HypA,Function associated with cytochrome_P450
+HypA,Type I polyketide synthase activity
+AngAI,Hydrogenase maturation protein A
+AngAI,Function associated with cytochrome_P450
+AngAIV,Hydrogenase maturation protein A
+AngAIV,Function associated with cytochrome_P450
+cytochrome_P450,Hydrogenase maturation protein A
+cytochrome_P450,Angiogenin-related component AI
+cytochrome_P450,Angiogenin-related component AIV
+cytochrome_P450,Function associated with cytochrome_P450
+cytochrome_P450,Type I polyketide synthase activity
+PKS_I,Hydrogenase maturation protein A
+PKS_I,Function associated with cytochrome_P450
+AngAI,Catalyzes polyketide synthesis
+AngAI,Specific polyketide synthesis (AufD variant)
+polyketide_synthase,Angiogenin-related component AI
+polyketide_synthase_AufD,Angiogenin-related component AI
+type_1_polyketide_synthase,Angiogenin-related component AI
+type_1_polyketide_synthase,Specific polyketide synthesis (AufD variant)
+type_1_polyketide_synthase,Type I polyketide synthase activity
+LuxR_family_transcriptional_regulator,Type I polyketide synthase activity
+type_1_polyketide_synthase,Quorum sensing and gene regulation
+PKS_I,Quorum sensing and gene regulation
+type_1_polyketide_synthase,Avilamycin biosynthesis component G3
+type_1_polyketide_synthase,Bafilomycin biosynthesis component X
+polyketide_synthase_type_I,Avilamycin biosynthesis component G3
+LuxR_family_transcriptional_regulator,Avilamycin biosynthesis component G3
+LuxR_family_transcriptional_regulator,Bafilomycin biosynthesis component X
+AviG3,Type I polyketide synthesis (modular)
+AviG3,Quorum sensing and gene regulation
+AviG3,Avilamycin biosynthesis component G3
+AviG3,Bafilomycin biosynthesis component X
+BafX,Quorum sensing and gene regulation
+BafX,Avilamycin biosynthesis component G3
+AmbB,Angiogenin-related component AV
+AmbB,Controls gene expression
+AngAV,Ambobactin biosynthesis component B
+AngAV,Controls gene expression
+"NDP-hexose_3,4-isomerase",Controls gene expression
+transcriptional_regulator,Ambobactin biosynthesis component B
+transcriptional_regulator,Angiogenin-related component AV
+transcriptional_regulator,Carbohydrate isomerization
+BafY,Transcriptional repression
+BafY,Ambobactin biosynthesis component A
+BafY,Angiogenin-related component AIII
+TetR_regulatory_protein,Bafilomycin biosynthesis component Y
+TetR_regulatory_protein,Ambobactin biosynthesis component A
+TetR_regulatory_protein,Angiogenin-related component AIII
+AmbA,Bafilomycin biosynthesis component Y
+AmbA,Transcriptional repression
+AmbA,Ambobactin biosynthesis component A
+AmbA,Angiogenin-related component AIII
+AmbA,Type I polyketide synthesis (modular)
+AngAIII,Bafilomycin biosynthesis component Y
+AngAIII,Transcriptional repression
+AngAIII,Ambobactin biosynthesis component A
+AngAIII,Type I polyketide synthesis (modular)
+polyketide_synthase_type_I,Ambobactin biosynthesis component A
+polyketide_synthase_type_I,Angiogenin-related component AIII
+PKS_I,Methylation of NDP-hexose at C3 position
+PKS_I,Synthesis of versicolorin B in aflatoxin pathway
+PKS_I,Versicolorin B synthesis
+BafAI,Methylation of NDP-hexose at C3 position
+BafAI,Synthesis of versicolorin B in aflatoxin pathway
+BafAI,Versicolorin B synthesis
+NDP-hexose-C3-methyltransferase,Type I polyketide synthase activity
+NDP-hexose-C3-methyltransferase,Bafilomycin biosynthesis component AI
+NDP-hexose-C3-methyltransferase,Synthesis of versicolorin B in aflatoxin pathway
+NDP-hexose-C3-methyltransferase,Versicolorin B synthesis
+versicolorin_B_synthase,Type I polyketide synthase activity
+versicolorin_B_synthase,Bafilomycin biosynthesis component AI
+versicolorin_B_synthase,Methylation of NDP-hexose at C3 position
+versicolorin_B_synthase,Synthesis of versicolorin B in aflatoxin pathway
+versicolorin_B_synthase,Versicolorin B synthesis
+VBS,Type I polyketide synthase activity
+VBS,Bafilomycin biosynthesis component AI
+VBS,Methylation of NDP-hexose at C3 position
+VBS,Synthesis of versicolorin B in aflatoxin pathway
+VBS,Versicolorin B synthesis
+transcriptional_regulator,Substrate-binding transport across membrane
+transcriptional_regulator,Bafilomycin biosynthesis component AII
+binding-protein_dependent_ABC_transporter,Controls gene expression
+binding-protein_dependent_ABC_transporter,Substrate-binding transport across membrane
+binding-protein_dependent_ABC_transporter,Ambobactin biosynthesis component B
+binding-protein_dependent_ABC_transporter,Catalyzes polyketide synthesis
+binding-protein_dependent_ABC_transporter,Bafilomycin biosynthesis component AII
+AmbB,Substrate-binding transport across membrane
+polyketide_synthase,Substrate-binding transport across membrane
+BafAII,Controls gene expression
+BafAII,Substrate-binding transport across membrane
+polyketide_synthase,Polyketide synthase involved in aflatoxin biosynthesis
+PksA,Catalyzes polyketide synthesis
+PksA,Polyketide synthase involved in aflatoxin biosynthesis
+EmrB/QacA_drug_resistance_transporter,Drug efflux and multidrug resistance
+EmrB/QacA_drug_resistance_transporter,Transfers glycosyl groups to acceptor molecules
+EmrB/QacA_drug_resistance_transporter,Catalyzes polyketide synthesis
+EmrB/QacA_drug_resistance_transporter,Type I polyketide synthesis (modular)
+EmrB/QacA_drug_resistance_transporter,Bafilomycin biosynthesis component AII
+glycosyltransferase,Drug efflux and multidrug resistance
+glycosyltransferase,Catalyzes polyketide synthesis
+glycosyltransferase,Type I polyketide synthesis (modular)
+glycosyltransferase,Bafilomycin biosynthesis component AII
+polyketide_synthase,Drug efflux and multidrug resistance
+polyketide_synthase,Transfers glycosyl groups to acceptor molecules
+polyketide_synthase_type_I,Drug efflux and multidrug resistance
+polyketide_synthase_type_I,Transfers glycosyl groups to acceptor molecules
+polyketide_synthase_type_I,Bafilomycin biosynthesis component AII
+BafAII,Drug efflux and multidrug resistance
+BafAII,Transfers glycosyl groups to acceptor molecules
+AmbB,Epimerization of NDP-glucose
+type_1_polyketide_synthase,Epimerization of NDP-glucose
+"NDP-hexose_3,4-isomerase",Epimerization of NDP-glucose
+putative_NDP-glucose_4-epimerase,Ambobactin biosynthesis component B
+putative_NDP-glucose_4-epimerase,Type I polyketide synthesis (modular)
+putative_NDP-glucose_4-epimerase,Carbohydrate isomerization
+putative_NDP-glucose_4-epimerase,Epimerization of NDP-glucose
+putative_NDP-glucose_4-epimerase,Bafilomycin biosynthesis component AII
+BafAII,Epimerization of NDP-glucose
+AmbB,Ambobactin biosynthesis component C
+AmbB,Angiogenin-related component AI
+AmbB,Bafilomycin biosynthesis component AV
+AmbC,Ambobactin biosynthesis component B
+AmbC,Ambobactin biosynthesis component C
+AmbC,Angiogenin-related component AI
+AmbC,Bafilomycin biosynthesis component AV
+AmbC,Type I polyketide synthesis (modular)
+AngAI,Ambobactin biosynthesis component B
+AngAI,Ambobactin biosynthesis component C
+AngAI,Bafilomycin biosynthesis component AV
+BafAV,Ambobactin biosynthesis component B
+BafAV,Ambobactin biosynthesis component C
+BafAV,Angiogenin-related component AI
+BafAV,Bafilomycin biosynthesis component AV
+BafAV,Type I polyketide synthesis (modular)
+type_1_polyketide_synthase,Ambobactin biosynthesis component C
+type_1_polyketide_synthase,Bafilomycin biosynthesis component AV
+cytochrome_P450,Type I polyketide synthesis (modular)
+cytochrome_P450,Angiogenin-related component AV
+cytochrome_P450,Reduction of ketone group in dNDP-hexose
+cytochrome_P450,Quorum sensing and gene regulation
+type_1_polyketide_synthase,Function associated with cytochrome_P450
+type_1_polyketide_synthase,Angiogenin-related component AV
+type_1_polyketide_synthase,Reduction of ketone group in dNDP-hexose
+AngAV,Function associated with cytochrome_P450
+AngAV,Reduction of ketone group in dNDP-hexose
+AngAV,Quorum sensing and gene regulation
+putative_dNDP-hexose_3-ketoreductase,Function associated with cytochrome_P450
+putative_dNDP-hexose_3-ketoreductase,Type I polyketide synthesis (modular)
+putative_dNDP-hexose_3-ketoreductase,Angiogenin-related component AV
+putative_dNDP-hexose_3-ketoreductase,Reduction of ketone group in dNDP-hexose
+putative_dNDP-hexose_3-ketoreductase,Quorum sensing and gene regulation
+LuxR_family_transcriptional_regulator,Function associated with cytochrome_P450
+LuxR_family_transcriptional_regulator,Angiogenin-related component AV
+LuxR_family_transcriptional_regulator,Reduction of ketone group in dNDP-hexose
+ABC_transporter,Transport of molecules across membrane
+ABC_transporter,Type I polyketide synthesis (modular)
+ABC_transporter,Type I polyketide synthase activity
+ABC_transporter,Ambobactin biosynthesis component C
+ABC_transporter,Carbohydrate isomerization
+PKS_I,Transport of molecules across membrane
+PKS_I,Ambobactin biosynthesis component C
+AmbC,Transport of molecules across membrane
+AmbC,Type I polyketide synthase activity
+AmbC,Carbohydrate isomerization
+"NDP-hexose_3,4-isomerase",Transport of molecules across membrane
+"NDP-hexose_3,4-isomerase",Ambobactin biosynthesis component C
+AmbB,Quorum sensing and gene regulation
+AmbB,Formation of amide bonds
+polyketide_synthase_type_I,Formation of amide bonds
+LuxR-family_transcription_regulator,Ambobactin biosynthesis component B
+LuxR-family_transcription_regulator,Type I polyketide synthesis (modular)
+LuxR-family_transcription_regulator,Quorum sensing and gene regulation
+LuxR-family_transcription_regulator,Formation of amide bonds
+LuxR-family_transcription_regulator,Catalyzes polyketide synthesis
+amide_synthase,Ambobactin biosynthesis component B
+amide_synthase,Type I polyketide synthesis (modular)
+amide_synthase,Quorum sensing and gene regulation
+amide_synthase,Formation of amide bonds
+amide_synthase,Catalyzes polyketide synthesis
+polyketide_synthase,Quorum sensing and gene regulation
+polyketide_synthase,Formation of amide bonds
+type_II_thioesterase,Oligopeptide transport across membrane
+type_II_thioesterase,Regulation of amphoteronolide biosynthesis
+type_II_thioesterase,Quorum sensing and gene regulation
+type_II_thioesterase,Type I polyketide synthase activity
+ABC_transporter_oligopeptide_permease,Removal of aberrant intermediates in polyketide synthesis
+ABC_transporter_oligopeptide_permease,Oligopeptide transport across membrane
+ABC_transporter_oligopeptide_permease,Regulation of amphoteronolide biosynthesis
+ABC_transporter_oligopeptide_permease,Quorum sensing and gene regulation
+ABC_transporter_oligopeptide_permease,Type I polyketide synthase activity
+similar_to_AmphRI_regulatory_protein,Removal of aberrant intermediates in polyketide synthesis
+similar_to_AmphRI_regulatory_protein,Oligopeptide transport across membrane
+similar_to_AmphRI_regulatory_protein,Quorum sensing and gene regulation
+similar_to_AmphRI_regulatory_protein,Type I polyketide synthase activity
+LuxR_family_transcriptional_regulator,Removal of aberrant intermediates in polyketide synthesis
+LuxR_family_transcriptional_regulator,Oligopeptide transport across membrane
+LuxR_family_transcriptional_regulator,Regulation of amphoteronolide biosynthesis
+PKS_I,Removal of aberrant intermediates in polyketide synthesis
+PKS_I,Oligopeptide transport across membrane
+PKS_I,Regulation of amphoteronolide biosynthesis
+transcriptional_regulator,Type I polyketide synthesis (modular)
+type_1_polyketide_synthase,Controls gene expression
+kinase,Phosphorylation of substrates
+kinase,Catalyzes polyketide synthesis
+kinase,"Function associated with transcriptional_regulator,_SARP_family"
+kinase,Fatty acid oxidation
+kinase,Type I polyketide synthesis (modular)
+polyketide_synthase,Phosphorylation of substrates
+polyketide_synthase,Fatty acid oxidation
+"transcriptional_regulator,_SARP_family",Phosphorylation of substrates
+"transcriptional_regulator,_SARP_family",Fatty acid oxidation
+acyl_CoA_dehydrogenase,Phosphorylation of substrates
+acyl_CoA_dehydrogenase,Catalyzes polyketide synthesis
+acyl_CoA_dehydrogenase,"Function associated with transcriptional_regulator,_SARP_family"
+acyl_CoA_dehydrogenase,Fatty acid oxidation
+acyl_CoA_dehydrogenase,Type I polyketide synthesis (modular)
+polyketide_synthase_type_I,Phosphorylation of substrates
+polyketide_synthase_type_I,Fatty acid oxidation
+BafAIII,Type I polyketide synthase activity
+BafAIII,Type I polyketide synthesis (modular)
+BafAIII,Glucose oxidation
+BafAIII,Angiogenin-related component AIII
+PKS_I,Bafilomycin biosynthesis component AIII
+PKS_I,Glucose oxidation
+PKS_I,Angiogenin-related component AIII
+polyketide_synthase_type_I,Bafilomycin biosynthesis component AIII
+polyketide_synthase_type_I,Glucose oxidation
+glucose_1-dehydrogenase,Bafilomycin biosynthesis component AIII
+glucose_1-dehydrogenase,Type I polyketide synthase activity
+glucose_1-dehydrogenase,Type I polyketide synthesis (modular)
+glucose_1-dehydrogenase,Glucose oxidation
+glucose_1-dehydrogenase,Angiogenin-related component AIII
+AngAIII,Bafilomycin biosynthesis component AIII
+AngAIII,Type I polyketide synthase activity
+AngAIII,Glucose oxidation
+AngAII,Regulation of antibiotic production
+AngAII,Type I polyketide synthase activity
+SARP_transcriptional_regulator,Angiogenin-related component AII
+PKS_I,Angiogenin-related component AII
+AmbB,Bafilomycin biosynthesis component AI
+AmbB,Reduction of aflatoxin aldehydes
+BafAI,Ambobactin biosynthesis component B
+BafAI,Protein of unknown function
+BafAI,Reduction of aflatoxin aldehydes
+hypothetical_protein,Bafilomycin biosynthesis component AI
+hypothetical_protein,Reduction of aflatoxin aldehydes
+aflatoxin_B1_aldehyde_reductase_member_3,Ambobactin biosynthesis component B
+aflatoxin_B1_aldehyde_reductase_member_3,Bafilomycin biosynthesis component AI
+aflatoxin_B1_aldehyde_reductase_member_3,Protein of unknown function
+aflatoxin_B1_aldehyde_reductase_member_3,Reduction of aflatoxin aldehydes
+SARP_transcriptional_regulator,Type I polyketide synthesis (modular)
+type_1_polyketide_synthase,Regulation of antibiotic production
+type_1_polyketide_synthase,Oligopeptide transport across membrane
+type_1_polyketide_synthase,Ambobactin biosynthesis component E
+ABC_transporter_oligopeptide_permease,Type I polyketide synthesis (modular)
+ABC_transporter_oligopeptide_permease,Ambobactin biosynthesis component E
+ABC_transporter_oligopeptide_permease,Carbohydrate isomerization
+AmbE,Type I polyketide synthesis (modular)
+AmbE,Oligopeptide transport across membrane
+AmbE,Regulation of amphoteronolide biosynthesis
+AmbE,Carbohydrate isomerization
+similar_to_AmphRI_regulatory_protein,Ambobactin biosynthesis component E
+similar_to_AmphRI_regulatory_protein,Carbohydrate isomerization
+"NDP-hexose_3,4-isomerase",Oligopeptide transport across membrane
+"NDP-hexose_3,4-isomerase",Ambobactin biosynthesis component E
+"NDP-hexose_3,4-isomerase",Regulation of amphoteronolide biosynthesis
+polyketide_synthase,Specific polyketide synthesis (AufG variant)
+"transcriptional_regulator,_SARP_family",Specific polyketide synthesis (AufG variant)
+acyl_CoA_dehydrogenase,Specific polyketide synthesis (AufG variant)
+polyketide_synthase_type_I,Specific polyketide synthesis (AufG variant)
+polyketide_synthase_AufG,Catalyzes polyketide synthesis
+polyketide_synthase_AufG,"Function associated with transcriptional_regulator,_SARP_family"
+polyketide_synthase_AufG,Fatty acid oxidation
+polyketide_synthase_AufG,Type I polyketide synthesis (modular)
+polyketide_synthase_AufG,Specific polyketide synthesis (AufG variant)
+type_II_thioesterase,Bafilomycin biosynthesis component AIV
+BafAIV,Removal of aberrant intermediates in polyketide synthesis
+BafAIV,Bafilomycin biosynthesis component AIV
+BafAIV,Regulation of amphoteronolide biosynthesis
+BafAIV,Quorum sensing and gene regulation
+BafAIV,Type I polyketide synthase activity
+similar_to_AmphRI_regulatory_protein,Bafilomycin biosynthesis component AIV
+LuxR_family_transcriptional_regulator,Bafilomycin biosynthesis component AIV
+PKS_I,Bafilomycin biosynthesis component AIV
+type_1_polyketide_synthase,"Function associated with transcriptional_regulator,_SARP_family"
+"transcriptional_regulator,_SARP_family",Transcriptional repression
+TetR_transcriptional_regulator,Type I polyketide synthesis (modular)
+TetR_transcriptional_regulator,"Function associated with transcriptional_regulator,_SARP_family"
+TetR_transcriptional_regulator,Transcriptional repression
+transaldolase,Carbohydrate metabolism
+transaldolase,Quorum sensing and gene regulation
+transaldolase,Type I polyketide synthesis (modular)
+transaldolase,Removal of aberrant intermediates in polyketide synthesis
+transaldolase,Carbohydrate isomerization
+LuxR_family_transcriptional_regulator,Carbohydrate metabolism
+LuxR_family_transcriptional_regulator,Carbohydrate isomerization
+type_1_polyketide_synthase,Carbohydrate metabolism
+type_II_thioesterase,Carbohydrate metabolism
+"NDP-hexose_3,4-isomerase",Carbohydrate metabolism
+"NDP-hexose_3,4-isomerase",Quorum sensing and gene regulation
+BafAIII,Carbohydrate isomerization
+BafAIII,Substrate-binding transport across membrane
+"NDP-hexose_3,4-isomerase",Bafilomycin biosynthesis component AIII
+"NDP-hexose_3,4-isomerase",Substrate-binding transport across membrane
+polyketide_synthase_type_I,Substrate-binding transport across membrane
+type_1_polyketide_synthase,Bafilomycin biosynthesis component AIII
+type_1_polyketide_synthase,Substrate-binding transport across membrane
+binding-protein_dependent_ABC_transporter,Bafilomycin biosynthesis component AIII
+binding-protein_dependent_ABC_transporter,Carbohydrate isomerization
+binding-protein_dependent_ABC_transporter,Type I polyketide synthesis (modular)
+LuxR-family_transcription_regulator,Specific polyketide synthesis (AufF variant)
+AmbB,Specific polyketide synthesis (AufF variant)
+polyketide_synthase,Specific polyketide synthesis (AufF variant)
+polyketide_synthase_AufF,Quorum sensing and gene regulation
+polyketide_synthase_AufF,Ambobactin biosynthesis component B
+polyketide_synthase_AufF,Catalyzes polyketide synthesis
+polyketide_synthase_AufF,Specific polyketide synthesis (AufF variant)
+AmbE,Function not characterized
+transcriptional_repressor,Type I polyketide synthesis (modular)
+transcriptional_repressor,Function not characterized
+glycosyltransferase,Function not characterized
+type_1_polyketide_synthase,Negative regulation of gene expression
+type_1_polyketide_synthase,Transfers glycosyl groups to acceptor molecules
+type_1_polyketide_synthase,Function not characterized
+unknown,Ambobactin biosynthesis component E
+unknown,Negative regulation of gene expression
+unknown,Transfers glycosyl groups to acceptor molecules
+unknown,Type I polyketide synthesis (modular)
+unknown,Function not characterized
+AmbC,Bafilomycin biosynthesis component AIV
+ABC_transporter,Bafilomycin biosynthesis component AIV
+polyketide_synthase_type_I,Ambobactin biosynthesis component C
+polyketide_synthase_type_I,Transport of molecules across membrane
+polyketide_synthase_type_I,Bafilomycin biosynthesis component AIV
+BafAIV,Ambobactin biosynthesis component C
+BafAIV,Transport of molecules across membrane
+BafAIV,Type I polyketide synthesis (modular)
+putative_transporter,Molecular transport (predicted)
+putative_transporter,Type I polyketide synthase activity
+putative_transporter,Catalyzes polyketide synthesis
+putative_transporter,Type I polyketide synthesis (modular)
+PKS_I,Molecular transport (predicted)
+polyketide_synthase,Molecular transport (predicted)
+type_1_polyketide_synthase,Molecular transport (predicted)
+polyketide_synthase_AufC,Ambobactin biosynthesis component F
+polyketide_synthase_AufC,Specific polyketide synthesis (AufF variant)
+polyketide_synthase_AufC,Quorum sensing and gene regulation
+AmbF,Specific polyketide synthesis (AufC variant)
+AmbF,Ambobactin biosynthesis component F
+AmbF,Specific polyketide synthesis (AufF variant)
+AmbF,Quorum sensing and gene regulation
+AmbF,Type I polyketide synthase activity
+polyketide_synthase_AufF,Specific polyketide synthesis (AufC variant)
+polyketide_synthase_AufF,Ambobactin biosynthesis component F
+polyketide_synthase_AufF,Type I polyketide synthase activity
+LuxR_family_transcriptional_regulator,Specific polyketide synthesis (AufC variant)
+LuxR_family_transcriptional_regulator,Ambobactin biosynthesis component F
+LuxR_family_transcriptional_regulator,Specific polyketide synthesis (AufF variant)
+PKS_I,Ambobactin biosynthesis component F
+PKS_I,Specific polyketide synthesis (AufF variant)
+type_1_polyketide_synthase,Versicolorin B synthesis
+type_1_polyketide_synthase,Ambobactin biosynthesis component 4
+type_1_polyketide_synthase,Protein of unknown function
+VBS,Type I polyketide synthesis (modular)
+VBS,Ambobactin biosynthesis component 4
+VBS,Protein of unknown function
+Amb4,Type I polyketide synthesis (modular)
+Amb4,Versicolorin B synthesis
+Amb4,Ambobactin biosynthesis component 4
+Amb4,Protein of unknown function
+hypothetical_protein,Versicolorin B synthesis
+hypothetical_protein,Ambobactin biosynthesis component 4
+type_1_polyketide_synthase,Drug efflux and multidrug resistance
+EmrB/QacA_drug_resistance_transporter,Type I polyketide synthase activity
+PKS_I,Drug efflux and multidrug resistance
+hypothetical_protein,Carbohydrate isomerization
+hypothetical_protein,Regulation of amphoteronolide biosynthesis
+"NDP-hexose_3,4-isomerase",Protein of unknown function
+polyketide_synthase_type_I,Regulation of amphoteronolide biosynthesis
+similar_to_AmphRI_regulatory_protein,Protein of unknown function
+AmbG,Ambobactin biosynthesis component G
+AmbG,Oxygen insertion (AufJ variant)
+AmbG,Type I polyketide synthase activity
+AmbG,Antibiotic biosynthesis component 9-1
+AmbG,Polyene antibiotic biosynthesis component A
+monooxygenase_AufJ,Ambobactin biosynthesis component G
+monooxygenase_AufJ,Oxygen insertion (AufJ variant)
+monooxygenase_AufJ,Type I polyketide synthase activity
+monooxygenase_AufJ,Antibiotic biosynthesis component 9-1
+monooxygenase_AufJ,Polyene antibiotic biosynthesis component A
+PKS_I,Ambobactin biosynthesis component G
+PKS_I,Oxygen insertion (AufJ variant)
+PKS_I,Antibiotic biosynthesis component 9-1
+PKS_I,Polyene antibiotic biosynthesis component A
+Aft9-1,Ambobactin biosynthesis component G
+Aft9-1,Oxygen insertion (AufJ variant)
+Aft9-1,Type I polyketide synthase activity
+Aft9-1,Antibiotic biosynthesis component 9-1
+Aft9-1,Polyene antibiotic biosynthesis component A
+AvnA,Ambobactin biosynthesis component G
+AvnA,Oxygen insertion (AufJ variant)
+AvnA,Type I polyketide synthase activity
+AvnA,Antibiotic biosynthesis component 9-1
+AvnA,Polyene antibiotic biosynthesis component A
+polyketide_synthase_type_I,Protein-specific methylation
+polyketide_synthase_type_I,Molecular transport (predicted)
+protein_methyltransferase,Type I polyketide synthesis (modular)
+protein_methyltransferase,Protein-specific methylation
+protein_methyltransferase,Ambobactin biosynthesis component C
+protein_methyltransferase,Molecular transport (predicted)
+protein_methyltransferase,Type I polyketide synthase activity
+AmbC,Protein-specific methylation
+AmbC,Molecular transport (predicted)
+putative_transporter,Protein-specific methylation
+putative_transporter,Ambobactin biosynthesis component C
+PKS_I,Protein-specific methylation
+AmbC,Catalyzes polyketide synthesis
+AmbC,Controls gene expression
+AmbC,Methylation in phenylpropanoid pathway
+AmbB,Methylation in phenylpropanoid pathway
+polyketide_synthase,Ambobactin biosynthesis component C
+polyketide_synthase,Methylation in phenylpropanoid pathway
+transcriptional_regulator,Ambobactin biosynthesis component C
+transcriptional_regulator,Methylation in phenylpropanoid pathway
+caffeoyl-CoA_o-methyltransferase,Ambobactin biosynthesis component C
+caffeoyl-CoA_o-methyltransferase,Ambobactin biosynthesis component B
+caffeoyl-CoA_o-methyltransferase,Catalyzes polyketide synthesis
+caffeoyl-CoA_o-methyltransferase,Controls gene expression
+caffeoyl-CoA_o-methyltransferase,Methylation in phenylpropanoid pathway
+putative_transporter,Protein of unknown function
+putative_transporter,Transfer of acyl groups
+putative_transporter,AHBA biosynthesis for rifamycin
+hypothetical_protein,Molecular transport (predicted)
+hypothetical_protein,Transfer of acyl groups
+hypothetical_protein,AHBA biosynthesis for rifamycin
+3-O-acyltransferase,Molecular transport (predicted)
+3-O-acyltransferase,Protein of unknown function
+3-O-acyltransferase,Transfer of acyl groups
+3-O-acyltransferase,AHBA biosynthesis for rifamycin
+3-O-acyltransferase,Type I polyketide synthesis (modular)
+3-amino-5-hydroxybenzoate_synthase,Molecular transport (predicted)
+3-amino-5-hydroxybenzoate_synthase,Protein of unknown function
+3-amino-5-hydroxybenzoate_synthase,Transfer of acyl groups
+3-amino-5-hydroxybenzoate_synthase,AHBA biosynthesis for rifamycin
+3-amino-5-hydroxybenzoate_synthase,Type I polyketide synthesis (modular)
+type_1_polyketide_synthase,Transfer of acyl groups
+type_1_polyketide_synthase,AHBA biosynthesis for rifamycin
+pathway-specific_SARP_activator,Pathway-specific gene activation
+pathway-specific_SARP_activator,Zinc-dependent alcohol oxidation
+pathway-specific_SARP_activator,Type I polyketide synthesis (modular)
+pathway-specific_SARP_activator,Quorum sensing and gene regulation
+pathway-specific_SARP_activator,Function not characterized
+Zn-dependent_alcohol_dehydrogenase,Pathway-specific gene activation
+Zn-dependent_alcohol_dehydrogenase,Zinc-dependent alcohol oxidation
+Zn-dependent_alcohol_dehydrogenase,Type I polyketide synthesis (modular)
+Zn-dependent_alcohol_dehydrogenase,Quorum sensing and gene regulation
+Zn-dependent_alcohol_dehydrogenase,Function not characterized
+type_1_polyketide_synthase,Pathway-specific gene activation
+type_1_polyketide_synthase,Zinc-dependent alcohol oxidation
+LuxR-family_transcription_regulator,Pathway-specific gene activation
+LuxR-family_transcription_regulator,Zinc-dependent alcohol oxidation
+LuxR-family_transcription_regulator,Function not characterized
+unknown,Pathway-specific gene activation
+unknown,Zinc-dependent alcohol oxidation
+unknown,Quorum sensing and gene regulation
+"transcriptional_regulator,_SARP_family",Function associated with putative_transmembrane_protein
+"transcriptional_regulator,_SARP_family",ATP-dependent peptide transport
+"transcriptional_regulator,_SARP_family",Single oxygen insertion reactions
+putative_transmembrane_protein,"Function associated with transcriptional_regulator,_SARP_family"
+putative_transmembrane_protein,Function associated with putative_transmembrane_protein
+putative_transmembrane_protein,ATP-dependent peptide transport
+putative_transmembrane_protein,Type I polyketide synthase activity
+putative_transmembrane_protein,Single oxygen insertion reactions
+ATP-binding_ABC_peptide_transporter,"Function associated with transcriptional_regulator,_SARP_family"
+ATP-binding_ABC_peptide_transporter,Function associated with putative_transmembrane_protein
+ATP-binding_ABC_peptide_transporter,ATP-dependent peptide transport
+ATP-binding_ABC_peptide_transporter,Type I polyketide synthase activity
+ATP-binding_ABC_peptide_transporter,Single oxygen insertion reactions
+PKS_I,Function associated with putative_transmembrane_protein
+PKS_I,ATP-dependent peptide transport
+PKS_I,Single oxygen insertion reactions
+cytochrome_P450_monooxygenase,"Function associated with transcriptional_regulator,_SARP_family"
+cytochrome_P450_monooxygenase,Function associated with putative_transmembrane_protein
+cytochrome_P450_monooxygenase,ATP-dependent peptide transport
+cytochrome_P450_monooxygenase,Type I polyketide synthase activity
+cytochrome_P450_monooxygenase,Single oxygen insertion reactions
+desaturase,Introduction of double bonds
+desaturase,Alternapyrone synthesis
+desaturase,Regulation of citrinin biosynthesis
+desaturase,Versicolorin B synthesis enzyme
+PKSN_polyketide_synthase_for_alternapyrone_biosynthesis,Introduction of double bonds
+PKSN_polyketide_synthase_for_alternapyrone_biosynthesis,Alternapyrone synthesis
+PKSN_polyketide_synthase_for_alternapyrone_biosynthesis,Regulation of citrinin biosynthesis
+PKSN_polyketide_synthase_for_alternapyrone_biosynthesis,Versicolorin B synthesis enzyme
+putative_citrinin_biosynthesis_transcriptional_activator_CtnR,Introduction of double bonds
+putative_citrinin_biosynthesis_transcriptional_activator_CtnR,Alternapyrone synthesis
+putative_citrinin_biosynthesis_transcriptional_activator_CtnR,Regulation of citrinin biosynthesis
+putative_citrinin_biosynthesis_transcriptional_activator_CtnR,Versicolorin B synthesis enzyme
+VerB,Introduction of double bonds
+VerB,Alternapyrone synthesis
+VerB,Regulation of citrinin biosynthesis
+VerB,Versicolorin B synthesis enzyme
+PKS_I,Methylation of nitrogen atoms
+AngAI,Angiogenin-related component AIII
+AngAI,Methylation of nitrogen atoms
+AngAIII,Angiogenin-related component AI
+AngAIII,Angiogenin-related component AIV
+AngAIII,Methylation of nitrogen atoms
+AngAIV,Angiogenin-related component AIII
+AngAIV,Methylation of nitrogen atoms
+N-methyltransferase,Type I polyketide synthase activity
+N-methyltransferase,Angiogenin-related component AI
+N-methyltransferase,Angiogenin-related component AIII
+N-methyltransferase,Angiogenin-related component AIV
+N-methyltransferase,Methylation of nitrogen atoms
+CypX,Cytochrome P450 in aflatoxin biosynthesis
+CypX,Function associated with BC_transporter_oligopeptide_binding_protein
+CypX,Single oxygen insertion reactions
+BC_transporter_oligopeptide_binding_protein,Cytochrome P450 in aflatoxin biosynthesis
+BC_transporter_oligopeptide_binding_protein,Function associated with BC_transporter_oligopeptide_binding_protein
+BC_transporter_oligopeptide_binding_protein,Single oxygen insertion reactions
+cytochrome_P450_monooxygenase,Cytochrome P450 in aflatoxin biosynthesis
+cytochrome_P450_monooxygenase,Function associated with BC_transporter_oligopeptide_binding_protein
+BafAIV,Sterigmatocystin biosynthesis component C
+BafAIV,Ambobactin biosynthesis component Q
+BafAIV,Reduction in deoxyhexose biosynthesis
+AmbC,Sterigmatocystin biosynthesis component C
+AmbC,Ambobactin biosynthesis component Q
+AmbC,Reduction in deoxyhexose biosynthesis
+StcC,Bafilomycin biosynthesis component AIV
+StcC,Ambobactin biosynthesis component C
+StcC,Sterigmatocystin biosynthesis component C
+StcC,Ambobactin biosynthesis component Q
+StcC,Reduction in deoxyhexose biosynthesis
+AmbQ,Bafilomycin biosynthesis component AIV
+AmbQ,Ambobactin biosynthesis component C
+AmbQ,Sterigmatocystin biosynthesis component C
+AmbQ,Reduction in deoxyhexose biosynthesis
+NDP-4-keto-6-deoxyhexose_reductase,Bafilomycin biosynthesis component AIV
+NDP-4-keto-6-deoxyhexose_reductase,Ambobactin biosynthesis component C
+NDP-4-keto-6-deoxyhexose_reductase,Sterigmatocystin biosynthesis component C
+NDP-4-keto-6-deoxyhexose_reductase,Ambobactin biosynthesis component Q
+NDP-4-keto-6-deoxyhexose_reductase,Reduction in deoxyhexose biosynthesis
+"transcriptional_regulator,_SARP_family",Protein of unknown function
+"transcriptional_regulator,_SARP_family",Molecular transport (predicted)
+hypothetical_protein,"Function associated with transcriptional_regulator,_SARP_family"
+hypothetical_protein,ATP-dependent peptide transport
+polyketide_synthase_type_I,ATP-dependent peptide transport
+putative_transporter,"Function associated with transcriptional_regulator,_SARP_family"
+putative_transporter,ATP-dependent peptide transport
+ATP-binding_ABC_peptide_transporter,Protein of unknown function
+ATP-binding_ABC_peptide_transporter,Type I polyketide synthesis (modular)
+ATP-binding_ABC_peptide_transporter,Molecular transport (predicted)
+proline_adenylation_protein,Polyketide synthase involved in aflatoxin biosynthesis
+hypothetical_protein,Polyketide synthase involved in aflatoxin biosynthesis
+BafX,Polyketide synthase involved in aflatoxin biosynthesis
+PksA,Activation of proline for peptide synthesis
+PksA,Protein of unknown function
+PksA,Bafilomycin biosynthesis component X
+proline_adenylation_protein,Transport of molecules across membrane
+ABC_transporter,Activation of proline for peptide synthesis
+ABC_transporter,Bafilomycin biosynthesis component Y
+ABC_transporter,Catalyzes polyketide synthesis
+ABC_transporter,Bafilomycin biosynthesis component X
+BafY,Transport of molecules across membrane
+BafX,Transport of molecules across membrane
+proline_adenylation_protein,Transfers glycosyl groups to acceptor molecules
+proline_adenylation_protein,Function associated with oxidoreductase_A;oxidoreductase/cytochrome_P450_monooxygenase
+proline_adenylation_protein,Aflatoxin biosynthesis oxidoreductase A
+PKS_I,Function associated with oxidoreductase_A;oxidoreductase/cytochrome_P450_monooxygenase
+PKS_I,Aflatoxin biosynthesis oxidoreductase A
+glycosyltransferase,Activation of proline for peptide synthesis
+glycosyltransferase,Function associated with oxidoreductase_A;oxidoreductase/cytochrome_P450_monooxygenase
+glycosyltransferase,Aflatoxin biosynthesis oxidoreductase A
+oxidoreductase_A;oxidoreductase/cytochrome_P450_monooxygenase,Activation of proline for peptide synthesis
+oxidoreductase_A;oxidoreductase/cytochrome_P450_monooxygenase,Type I polyketide synthase activity
+oxidoreductase_A;oxidoreductase/cytochrome_P450_monooxygenase,Transfers glycosyl groups to acceptor molecules
+oxidoreductase_A;oxidoreductase/cytochrome_P450_monooxygenase,Function associated with oxidoreductase_A;oxidoreductase/cytochrome_P450_monooxygenase
+oxidoreductase_A;oxidoreductase/cytochrome_P450_monooxygenase,Aflatoxin biosynthesis oxidoreductase A
+OrdA,Activation of proline for peptide synthesis
+OrdA,Type I polyketide synthase activity
+OrdA,Transfers glycosyl groups to acceptor molecules
+OrdA,Function associated with oxidoreductase_A;oxidoreductase/cytochrome_P450_monooxygenase
+OrdA,Aflatoxin biosynthesis oxidoreductase A
+LuxR_family_transcriptional_regulator,Ambobactin biosynthesis component B
+LuxR_family_transcriptional_regulator,Catalyzes polyketide synthesis
